@@ -1,0 +1,2 @@
+
+A jelenlegi backend, php kódunkkal kapcsolatban több problémát találtunk, de funkcionalitásban működőképes. Rájöttünk, hogy a php kódunk nem megfelelő, nem objektum orientált, ezért igyekszünk átrakni egy backend mappába, azon belül controller, model, view mappákba és objektum orientáltá tenni. Igyekszünk a próbavizsgára megváltoztatni, de nem biztos, hogy sikerül határidőre. Unit tesztek jelenleg még nincsenek, mert az új php fájlokhoz fogunk tudni írni.
